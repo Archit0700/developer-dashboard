@@ -55,3 +55,4 @@ This project is intentionally small: it demonstrates clean frontend structure, t
 - Validate production builds before merging larger features.
 - Keep documentation synchronized with the project structure.
 - Review the README whenever the application architecture changes.
+- Document notable setup or build changes for contributors.
