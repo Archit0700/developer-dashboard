@@ -53,3 +53,4 @@ This project is intentionally small: it demonstrates clean frontend structure, t
 - Keep UI components focused and easy to maintain.
 - Prefer small, meaningful changes over unnecessary complexity.
 - Validate production builds before merging larger features.
+- Keep documentation synchronized with the project structure.
