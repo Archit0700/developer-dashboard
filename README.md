@@ -47,3 +47,9 @@ npm run build
 ## Portfolio Goal
 
 This project is intentionally small: it demonstrates clean frontend structure, typed TypeScript, responsive UI, and an interface that can evolve into a real developer analytics product.
+
+## Development Notes
+
+- Keep UI components focused and easy to maintain.
+- Prefer small, meaningful changes over unnecessary complexity.
+- Validate production builds before merging larger features.
