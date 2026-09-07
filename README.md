@@ -59,3 +59,4 @@ This project is intentionally small: it demonstrates clean frontend structure, t
 - Keep examples aligned with the current npm scripts.
 - Prefer accessible HTML elements when adding new UI.
 - Keep responsive behavior in mind when changing layouts.
+- Use descriptive names for data and rendering functions.
