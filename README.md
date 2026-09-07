@@ -61,3 +61,4 @@ This project is intentionally small: it demonstrates clean frontend structure, t
 - Keep responsive behavior in mind when changing layouts.
 - Use descriptive names for data and rendering functions.
 - Keep TypeScript types close to the data they describe.
+- Avoid duplicating constants when a shared value is appropriate.
