@@ -57,3 +57,4 @@ This project is intentionally small: it demonstrates clean frontend structure, t
 - Review the README whenever the application architecture changes.
 - Document notable setup or build changes for contributors.
 - Keep examples aligned with the current npm scripts.
+- Prefer accessible HTML elements when adding new UI.
