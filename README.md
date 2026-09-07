@@ -64,3 +64,4 @@ This project is intentionally small: it demonstrates clean frontend structure, t
 - Avoid duplicating constants when a shared value is appropriate.
 - Keep UI text concise and meaningful.
 - Prefer predictable file organization as the project grows.
+- Run the build after changes that affect TypeScript or Vite configuration.
